@@ -10,5 +10,6 @@ Running the script with no arguments will prompt you with a 5x5 grid you can com
 ## Argument examples
 `python gameOfLife.py 15`
   Creates a 15x15 grid, which you can complete by hand.
+
 `python gameOfLife.py 23 random`
   Creates a 23x23 grid, which will be filled randomly.
